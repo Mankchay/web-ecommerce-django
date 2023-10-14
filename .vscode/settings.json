@@ -1,0 +1,17 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "html.format.enable": true,
+    "html.format.indentHandlebars": true,
+    "html.format.preserveNewLines": false,
+    "debug.javascript.unmapMissingSources": true,
+    "json.schemaDownload.enable": false,
+    "html.format.indentInnerHtml": true,
+    "terminal.integrated.cursorBlinking": false,
+    "html.format.templating": true,
+    "html.autoClosingTags": true,
+    "html.autoCreateQuotes": true,
+    "git.verboseCommit": false
+}
